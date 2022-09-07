@@ -1,16 +1,10 @@
-# weather
+## Weather Flutter Project
 
-A new Flutter project.
+### Created using OpenWeatherMap API
 
-## Getting Started
+## Demo:
+<img src="https://user-images.githubusercontent.com/91888013/188938054-922e1031-d4d2-4bd0-a842-738d9721c55f.png" height="800" width="400"/>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
